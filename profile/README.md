@@ -74,13 +74,6 @@ AI/ML Integration      | DevOps        | Database Design
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zeppelinmentor&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zeppelinmentor&layout=compact&langs_count=8&theme=algolia"/>
-</p>
-
 ## 🎓 Mentorship Programs
 
 ### **Current Initiatives:**
