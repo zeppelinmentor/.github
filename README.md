@@ -81,10 +81,6 @@ AI/ML Integration      | DevOps        | Database Design
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zeppelinmentor&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
-<p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=zeppelinmentor&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
-</p>
-
 ## 🎓 Mentorship Programs
 
 ### **Current Initiatives:**
