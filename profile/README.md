@@ -54,7 +54,7 @@ AI/ML Integration      | DevOps        | Database Design
 
 <p align="left">
 <a href="https://twitter.com/zeppelinmentor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zeppelinmentor" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zeppelinmentor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeppelinmentor" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dev-madnansultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeppelinmentor" height="30" width="40" /></a>
 <a href="https://discord.gg/3ctZJu4xnY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zeppelinmentor" height="30" width="40" /></a>
 </p>
 
